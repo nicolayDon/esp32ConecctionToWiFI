@@ -7,3 +7,6 @@ platform = espressif8266
 board = esp12e
 framework = arduino
 
+
+Test project
+ ![alt text](2018-08-05_2345.png) 	
